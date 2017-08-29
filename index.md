@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my site!
 
-You can use the [editor on GitHub](https://github.com/Palmidence/Palmidence/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a music producer, aspiring web developer, and former Minecraft map maker with 5 years under my belt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+I have gone through a lot in my journey. I have done the following:
+- **Team building** using engaging leadership strategies, adapting to different styles of learning
+- **Proficience** in XML, HTML, YML, JSON, and virtually any markup language using hands-on learning
+- **Marketed and administrated** for many networks and businesses, establishing branches of contact for partners
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Minecraft Work
 
-```markdown
-Syntax highlighted code block
+Though it is mostly of the past, I have done quite a bit while I was actively working with Minecraft. This includes:
+- Administrating for the [Avicus Network, LLC](https://www.linkedin.com/company/10072740/) (Oversaw 50+ staff, managed 8 sectors of the team, ran tournaments)
+- Map Developing for the Avicus Network, LLC (Managed team, used XML/YML to configure matches, oversaw rotations)
+- Map Developing for the Stratus Network (Expansive XML work, coordinated team of 10 dedicated members)
+- Volunteer moderating for numerous servers, taking leadership initatives
+- Creating music for Minecraft mods such as [EssentialFeatures](https://github.com/williambl/EssentialFeatures)
 
-# Header 1
-## Header 2
-### Header 3
+### Music Work
 
-- Bulleted
-- List
+I specialize in electronic music production. I shape the way I want to listen to music with 80's music fusioned into modern styled songs. I am fluent in working with genres such as [Synthwave](https://en.wikipedia.org/wiki/Synthwave_(2000s_genre)), [Vaporwave](https://en.wikipedia.org/wiki/Vaporwave), [Drum 'n' Bass](https://en.wikipedia.org/wiki/Drum_and_bass), and [Ambience](https://en.wikipedia.org/wiki/Ambient_music). I am still new in learning how to produce music, and I've only been producing for a little over a year, so I still have much to learn!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Palmidence/Palmidence/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
